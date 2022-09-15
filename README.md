@@ -1,2 +1,6 @@
 # RP_LM2596-KfzPowerSafeguard
-Input board with protection against spikes
+![Pic of Module](https://github.com/rapola/RP_LM2596-KfzPowerSafeguard/blob/main/V1.0/Pics/RP_LM2596-KfzPowerSafeguard_a.png "Module")
+<br>
+---
+not ordered yet
+
