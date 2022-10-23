@@ -1,351 +1,442 @@
-77830220748339
-TH_Footprints_02
-AVX_BTB_00-9159006061916
-
-PCB Edge Connector, Leiterplatenrandverbinder, Leiterplattenverbinder
+96851902809117
+RP_Footprints_01
+4Ch-Levelshift_01
+Makershop
+Level Shift BSS138
 0
-6
-6
-TH_Footprints_02
-Anvilex_V1
-PCB Modul
-Anvilex
+12
+12
+RP_Footprints_01
+Arduino_Mega2560-R3
+Arduino-Mega2560-R3
+Arduino Board
 0
-32
-32
-TH_Footprints_02
-BB-Leistungsteil_05
+86
+86
+RP_Footprints_01
+BluePill_01_RP
 
 
 0
-14
-14
-TH_Footprints_02
-Buzzer_CST-951AP
+40
+40
+RP_Footprints_01
+CNY70
+
+
+0
+4
+4
+RP_Footprints_01
+DIP-4_Gleichrichter_7,62x5_Rund_01
+8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+dil dip 2.54 300
+0
+4
+4
+RP_Footprints_01
+DIP-SW_TE_GDH02STR04_2pos_vert
+
+
+0
+4
+4
+RP_Footprints_01
+D_stehend_7,62
 
 
 0
 2
 2
-TH_Footprints_02
-Crystal_SMD_2016-4Pin_2.0x1.6mm
-SMD Crystal SERIES ABRACON ABM11
-SMD SMT crystal
-0
-4
-4
-TH_Footprints_02
-Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm
-Abracon Miniature Ceramic SMD Crystal ABS25 https://abracon.com/Resonators/abs25.pdf, 8.0x3.8mm^2 package
-SMD SMT crystal
-0
-4
-4
-TH_Footprints_02
-DIP-4_W7.62mm_SMDSocket_SmallPads_RP
-4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
-0
-4
-4
-TH_Footprints_02
-EA_OLEDM128-6_RP
+RP_Footprints_01
+EE20-10-0,5VA-2x_sec
 
 
 0
-26
-26
-TH_Footprints_02
-Eingang-Rel.-Platine_V1.0
+6
+6
+RP_Footprints_01
+EE30-10,5-1VA-2x_sec
+
+
+0
+6
+6
+RP_Footprints_01
+FTR-K1_Relais_RP
 
 
 0
 8
-8
-TH_Footprints_02
-Eingangsplatine_AD_V1.0
+5
+RP_Footprints_01
+Faston_1x_6,3-male
+Faston male. for Stecker incl. Isoliergeh.
+
+0
+2
+1
+RP_Footprints_01
+FuseClips_5x20_RP
 
 
 0
-16
-16
-TH_Footprints_02
-Eingangsplatine_DI_V1.0
-
-
+4
+2
+RP_Footprints_01
+Gleichrichter_14,45x3,5_-ww+
+Gleichrichter_14045x3,5
+-ww+
 0
-16
-16
-TH_Footprints_02
-Fin34.51_Series_Relay
-Finder 34.51 Series
-
-0
-5
-5
-TH_Footprints_02
-Fin93.11_Series_RelaySocket
-Finder 93.11 Series
-
-0
-5
-5
-TH_Footprints_02
+4
+4
+RP_Footprints_01
 HC05_Modul
 HC05-Modul
 HC05 Bluetooth
 0
 34
 34
-TH_Footprints_02
-HDSM-28xx_7segLED
-
-
-0
-11
-11
-TH_Footprints_02
-JST_SUR_BM08B-SURS-TF_1x08-1MP_P0.80mm_Vertical_RP
-JST SUR series connector, BM08B-SURS-TF (http://www.jst-mfg.com/product/pdf/eng/eSUR.pdf), generated with kicad-footprint-generator
-connector JST SUR side entry
+RP_Footprints_01
+IDC-10-female-stirnseite
+IDC 10pol Stirnseite
+IDC
 0
 10
-9
-TH_Footprints_02
-Jumper_3Way
-Jumper 3Way closed1-2
+10
+RP_Footprints_01
+IDC-Header_2x03_Pitch2.54mm_Straight
+6 pins through hole IDC header
+IDC header socket VASCH AVR ISP
+0
+6
+6
+RP_Footprints_01
+IDC-Header_2x03_Pitch2.54mm_Straight_RP
+6 pins through hole IDC header
+IDC header socket VASCH AVR ISP
+0
+6
+6
+RP_Footprints_01
+KCSA02-107_7seg_LED_fekcdpbakfg
+
 
 0
-3
-3
-TH_Footprints_02
-Kipphebelschalter_RS401-703
-
-
+10
+10
+RP_Footprints_01
+KCSA39-105_7seg_LED_fekcdpbakfg
+LED-7seg_10x6
+LED 7seg KCSA 
 0
-3
-3
-TH_Footprints_02
-LED_1204_reverse
-
-
+10
+10
+RP_Footprints_01
+LCD20x4_Eckstein_01
+LCD_20x4_Eckstein_01
+LCD 20x4
 0
-2
-2
-TH_Footprints_02
-Leistungsplatine_DA_V1.0
+20
+16
+RP_Footprints_01
+LCD_DIP_8x1
 
 
 0
 14
 14
-TH_Footprints_02
+RP_Footprints_01
+LED-Matrix_8x8_30mm
+
+LED Matrix RP
+0
+16
+16
+RP_Footprints_01
+LED3mm-Stirnseite
+LED-3mm-Stirnseite
+
+0
+2
+2
+RP_Footprints_01
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+RP_Footprints_01
+LED_PLCC-2_Hand_RP
+LED PLCC-2 SMD Handsoldering
+LED PLCC-2 SMD
+0
+2
+2
+RP_Footprints_01
+LED_RGB_5050-6_RP
+
+RGB LED 5050-6
+0
+6
+6
+RP_Footprints_01
+LED_Reverse_Wurth_156125
+
+156125YV73000, 156125RV73000
+0
+4
+4
+RP_Footprints_01
+LM2596_StepDwnMod_01
+
+
+0
+4
+4
+RP_Footprints_01
+MCP2515-Modul1
+MCP215-Modul
+MCP215-Modul Arduino ebay
+0
+7
+7
+RP_Footprints_01
 Mate-N-Lok_0350428
-Pin Header 2pol.
+Mate-N-Lok
 TE Mate Lok
 0
 2
 2
-TH_Footprints_02
-Micro-Mate-3-794630-2
+RP_Footprints_01
+Molex_KK-254_022057048_1x04_P2.54_Angled
+
+
+0
+4
+4
+RP_Footprints_01
+Molex_KK_38001334
+
+
+0
+4
+4
+RP_Footprints_01
+Molex_PicoBlade_53047-0610_1x06_P1.25mm_Vertical_RP
+Molex PicoBlade Connector System, 53047-0610, 6 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+6
+6
+RP_Footprints_01
+Nichia_LED_NHSW157BT_SMD
+SMD-LED
+LED
+0
+4
+2
+RP_Footprints_01
+OLED_0,96inch_Display_ebay
+
+
+0
+4
+4
+RP_Footprints_01
+Omron_G6B-XX14P
+
+
+0
+6
+6
+RP_Footprints_01
+PCB_150x90
+
+
+0
+0
+0
+RP_Footprints_01
+PSK254-2G
 
 
 0
 2
 2
-TH_Footprints_02
-Micro-Mate-3_2-1445093-3
+RP_Footprints_01
+PSK254-3G
 
 
 0
 3
 3
-TH_Footprints_02
-MicroMATE-N-LOK_3-794618-4
-Micro MATE N LOK
-TE
-0
-4
-4
-TH_Footprints_02
-MicroUSB-Molex_47346
-Micro-USB_Molex-47346
-
-0
-11
-6
-TH_Footprints_02
-Mini-Mate-770166
-Universal Mini Mate N Lok
-TE
-0
-2
-2
-TH_Footprints_02
-Mini-Mate-770182
-9pol. 3x3
-TE Mini Mate
-0
-9
-9
-TH_Footprints_02
-Mini-Mate_1-770874-1
+RP_Footprints_01
+PSK254-4G
 
 
 0
 4
 4
-TH_Footprints_02
-Mini-Mate_770875
+RP_Footprints_01
+PSK254-5G
 
 
 0
-6
-6
-TH_Footprints_02
-Molex_KK254_6hor_38001336
+5
+5
+RP_Footprints_01
+PSK254-8G
 
 
-0
-6
-6
-TH_Footprints_02
-Molex_KK7478-4pol
-Molex KK64
-
-0
-4
-4
-TH_Footprints_02
-Molex_Nano-Fit_105314-1206_2x03_Hor_RP
-Molex Nano-Fit Power Connectors, 105314-xx06, 3 Pins per row (http://www.molex.com/pdm_docs/sd/1053141208_sd.pdf), generated with kicad-footprint-generator
-connector Molex Nano-Fit top entry
-0
-6
-6
-TH_Footprints_02
-Mounting-Hole_M3x10
-Mounting Hole 3.2mm, no annular, M3
-mounting hole 3.2mm no annular m3
-0
-0
-0
-TH_Footprints_02
-MountingDist_3.2mm_M3x10_DIN965
-Mounting Hole 3.2mm, no annular, M3, DIN965
-mounting hole 3.2mm no annular m3 din965
-0
-0
-0
-TH_Footprints_02
-Multibox_0401106300
-Multibox
-
-0
-0
-0
-TH_Footprints_02
-RN4871_Bluetooth
-
-
-0
-16
-16
-TH_Footprints_02
-R_Array_Convex_4x0612_RP
-Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
-resistor array
 0
 8
 8
-TH_Footprints_02
-Relais_CPA1A12
-KFZ-Relais
-Relay Relais
-0
-4
-4
-TH_Footprints_02
-Relais_KFZ_micro_Sockel_RP
-
-
-0
-5
-5
-TH_Footprints_02
-Relays_JJ-M_Panasonic_1S
-KFZ-Relais
-
-0
-4
-4
-TH_Footprints_02
-SC70-6_RP
-
-
-0
-6
-6
-TH_Footprints_02
-SC74-6_RP
-
-
-0
-6
-6
-TH_Footprints_02
-SSOP-18_4.4x6.5mm_Pitch0.65mm
-SSOP18: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)
-SSOP 0.65
-0
-18
-18
-TH_Footprints_02
-SWF521_RP01
-
-
-0
-10
-6
-TH_Footprints_02
-Supercap_SCMT22
-Supercap Goldcap
+RP_Footprints_01
+Piezo_Buzzer_Murata_PKMCS0909E4000
+Piezo_Buzzer
 
 0
 2
 2
-TH_Footprints_02
-TO-252-2
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
-DPAK TO-252 DPAK-3 TO-252-3 SOT-428
-0
-7
-3
-TH_Footprints_02
-TO-252-2+Cooler1
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
-DPAK TO-252 DPAK-3 TO-252-3 SOT-428
-0
-7
-3
-TH_Footprints_02
-TO-252-5_TabPin3-DPAK
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
-DPAK TO-252 DPAK-5 TO-252-5
-0
-9
-5
-TH_Footprints_02
-VAC_T60404-N4646-X662
+RP_Footprints_01
+RP_LED_RGB_0805-3A
 
-VAC Vacuumschmelze Stromsensor
+
 0
-10
-10
-TH_Footprints_02
-Via-Pad-03_06
+4
+4
+RP_Footprints_01
+R_0-Ohml_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+1
+RP_Footprints_01
+R_stehend_7,62
+
+
+0
+2
+2
+RP_Footprints_01
+Rel_HF152FD-C-SinglePin
+Hongfa HF152FD
+
+0
+5
+5
+RP_Footprints_01
+RelayModul2x_ChristiansTechnik_Aug2021
+
+
+0
+0
+0
+RP_Footprints_01
+SOT-223_GDSD
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+RP_Footprints_01
+SOT-223_GDSD-RP01
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+RP_Footprints_01
+SOT-223_GDSD_RP
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+RP_Footprints_01
+SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm_RP
+8x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x22.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+16
+16
+RP_Footprints_01
+SafetyCut1_254x508
+
+Ausschnitt, Sicherheitshausschnitt, 230V 
+0
+0
+0
+RP_Footprints_01
+SafetyCut1_254x762
+
+Ausschnitt, Sicherheitshausschnitt, 230V 
+0
+0
+0
+RP_Footprints_01
+Taster_Panasonic_EVPBB2A9B000
+
+
+0
+4
+2
+RP_Footprints_01
+TerminalBlock_2_P5.08mm
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+RP_Footprints_01
+Touchpad_01
 
 
 0
 1
 1
+RP_Footprints_01
+Trafo_EI48-10VA-2sec
+
+
+0
+6
+6
+RP_Footprints_01
+USB-A_Lumberg_2410-03
+
+
+0
+12
+9
+RP_Footprints_01
+Wago236-743_RM5
+Wago236 RM5/5
+Wago 236
+0
+2
+1
+RP_Footprints_01
+YAAJ_DCDC_StepDown_LM2596
+
+
+0
+4
+4
+RP_Footprints_01
+YAAJ_DCDC_StepDown_LM2596_noSilk
+
+
+0
+4
+4
+RP_Footprints_01
+Yoke_IR01
+
+
+0
+2
+2
